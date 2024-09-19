@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Mincari's%20Github&desc=currently%20preparing&fontColor=fafafa&fontSize=64&animation=fadeIn&fontAlignY=48&theme=vue)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=D2BCFF&center=true&vCenter=true&repeat=false&width=850&lines=welcome+to+mincari's+github)](https://git.io/typing-svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mincari&theme=shadow-purple&hide_border=true&date_format=%5BY.%5Dn.j&card_width=850)](https://git.io/streak-stats)
 
-
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mincari&layout=compact)
 ![Mincari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mincari&theme=vue&show_icons=true)
+-->
